@@ -1,3 +1,5 @@
+export 'package:flutter/widgets.dart';
+
 export 'src/antd.dart';
 export 'src/accordion/accordion.dart';
 export 'src/action-sheet/action-sheet.dart';

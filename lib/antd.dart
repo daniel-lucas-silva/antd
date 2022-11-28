@@ -1,4 +1,5 @@
 export 'package:flutter/widgets.dart';
+export 'package:flutter/services.dart';
 
 export 'src/antd.dart';
 export 'src/accordion/accordion.dart';
